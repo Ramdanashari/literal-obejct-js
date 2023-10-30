@@ -1,0 +1,1 @@
+# literal-obejct-js
